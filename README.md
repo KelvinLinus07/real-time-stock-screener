@@ -1,12 +1,19 @@
-## Project Architecture
+# Real Time Stock Screener Summary
 
-The application follows a modular frontend architecture:
+Features:
 
-- components: Reusable UI components
-- hooks: Custom React hooks
-- store: Zustand global state management
-- lib: Utility functions and mock engines
-- types: TypeScript definitions
+- 5000+ simulated stocks
+- Real-time price simulation
+- Technical indicators
+- Advanced filtering
+- Virtualized data table
+- Interactive charts
 
-The system is optimized to handle large datasets using
-TanStack Table and virtualization techniques.
+Tech Stack:
+
+Next.js
+TypeScript
+Tailwind CSS
+Zustand
+TanStack
+Lightweight Charts
