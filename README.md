@@ -17,3 +17,5 @@ Tailwind CSS
 Zustand
 TanStack
 Lightweight Charts
+
+live link:https://real-time-stock-screener-nine.vercel.app/
